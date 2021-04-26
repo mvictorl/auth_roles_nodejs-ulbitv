@@ -1,6 +1,6 @@
 module.exports = {
   dbUser: 'mvictorl',
-  dbPass: 'N6VYTt14LSnqS56w',
+  dbPass: '2Dq7Ggn0QnARBqPX',
 
   secretKey: 'SOME_SERVER_SECRET_KEY'
 }
